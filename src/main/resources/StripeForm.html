@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Payment</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://js.stripe.com/v3/"></script>
+
+</head>
+<body>
+
+<form id="payment-form">
+    <div id="card-element"><!--Stripe.js injects the Card Element--></div>
+    <button id="submit">Pay</button>
+
+</form>
+<div id="card-errors" role="alert"></div>
+<div id="nom" role="alert"></div>
+<div id="total" role="alert"></div>
+<script>
+    var stripe = Stripe('pk_test_51OJGj4DTW8fuCowuIvaWw3Wpsk1Zm3IwhE4K4q46rdJ0Wdna5zOD4mJMXA6B226kqvSjDVBOa8J30pBDUQcNdswG00tr8xsimj'); // Use your own public key
+    var elements = stripe.elements();
+    var cardElement = elements.create('card');
+    cardElement.mount('#card-element');
+    var form = document.getElementById('payment-form');
+    form.addEventListener('submit', function(event) {
+        event.preventDefault();
+        var customerName = javaApp.getCustomerName();
+        var totalAmount = javaApp.getTotalAmount();
+        var nom = document.getElementById('nom');
+        nom.textContent = customerName;
+        var total = document.getElementById('total');
+        total.textContent = totalAmount;
+        stripe.createToken(cardElement, {
+            name: customerName,
+            amount: totalAmount
+        }).then(function(result) {
+            if (result.error) {
+                // Inform the user if there was an error
+                var errorElement = document.getElementById('card-errors');
+                errorElement.textContent = result.error.message;
+            } else {
+                // Send the token to your Java application
+                var errorElement = document.getElementById('card-errors');
+                errorElement.textContent = "nothing is wrong";
+                javaApp.processPayment(result.token);
+            }
+        });
+    });
+</script>
+</body>
+</html>

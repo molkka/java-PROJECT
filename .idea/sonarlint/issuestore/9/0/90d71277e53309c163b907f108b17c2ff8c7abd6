@@ -1,0 +1,17 @@
+
+	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8üÑ»ó1J$65ddbce5-03fd-43b3-bfeb-2a0765e31651
+	java:S112u"FDefine and throw a dedicated exception instead of using a generic one.(­Õãøÿÿÿÿ8üÑ»ó1J$c707333e-d855-4b58-be50-cf6648103613
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8‘üÑ»ó1J$4dddfaa1-be71-43e8-bff3-6c40b63d8f9d
+	java:S1163"VRename this field "BtnImprimer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë”şşÿÿÿÿ8¯üÑ»ó1J$a0ae35e2-c614-49d8-b3ff-047be702af70
+–	java:S1165"TRename this field "BtnRetour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õßªô8¯üÑ»ó1J$eb49fbe6-1fc1-4f83-b1fb-360063395f41
+•	java:S116="SRename this field "BtnPayer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùíÜâ8¯üÑ»ó1J$ea81e471-cf03-44f2-a757-43dcda57515d
+É
+java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•‘İŸüÿÿÿÿ8°üÑ»ó1J$0f552868-c4e4-4aaf-8c58-4c1a73b3f764
+	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÌ°8¶üÑ»ó1J$2ad098bb-b604-4091-b171-53daae81857a
+•	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÜíåúÿÿÿÿ8¹üÑ»ó1J$fbc826d1-4d3e-4e72-ac24-8ab8257b5541
+–	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ë¡Ôÿÿÿÿÿ8ÅüÑ»ó1J$1f34e227-8dd0-4f4d-928b-53d502733d90
+n	java:S106°"+Replace this use of System.out by a logger.(†îÌ8ÉÎî»ó1J$20e32a19-5427-4d32-89ed-1bf8f0d4018e
+
+java:S1128"ERemove this unused import 'com.sun.javafx.webkit.WebConsoleListener'.(ÒÙäşÿÿÿÿ8¬ºâ»ó1J$fe4daaad-2358-4d8f-8b24-f35bfb8b7d99
+k
+java:S1068;"(Remove this unused "user" private field.(ÑÄÁõ8ÒüÑ»ó1J$670765fc-7945-498a-9587-6d4e3a1d9119

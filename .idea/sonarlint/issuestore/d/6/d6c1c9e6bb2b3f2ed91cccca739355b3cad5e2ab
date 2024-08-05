@@ -1,0 +1,4 @@
+
+‘
+java:S3824"IReplace this "Map.containsKey()" with a call to "Map.computeIfPresent()".(ÿ•Κÿÿÿÿÿ8§Ρ™γο1J$d710edd5-cff6-4299-8900-7b3385d2ab23
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Έκ¨ώÿÿÿÿ8­Ρ™γο1J$971a3d87-267c-4b5d-bcc5-9f46aefae586

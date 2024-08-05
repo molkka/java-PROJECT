@@ -1,0 +1,29 @@
+
+Š
+java:S1192Q"GDefine a constant instead of duplicating this literal "idcart" 3 times.(½»®8ë£Çªó1J$023ad41e-80f8-45a2-8b07-5b4eb6516df2
+
+java:S1192P"KDefine a constant instead of duplicating this literal "commandeid" 3 times.(¤ª³³8ë£Çªó1J$f358db67-3357-4fbb-a8ae-d2f98d1bfed9
+
+java:S1192T"GDefine a constant instead of duplicating this literal "idUser" 3 times.(Ê²„Íıÿÿÿÿ8ì£Çªó1J$3fd317dd-d63b-412a-95bd-318f81bcb2ea
+‹
+java:S1192X"HDefine a constant instead of duplicating this literal "adresse" 3 times.(ÔšÜÿ8ì£Çªó1J$3f239714-40ec-4379-a7cb-0cf28caaaf6c
+Š
+java:S1192V"GDefine a constant instead of duplicating this literal "prenom" 3 times.(ÈÂßœ8ì£Çªó1J$35f611db-2f4d-4c38-88f2-2f4151cf8e01
+•
+java:S1192Y"MDefine a constant instead of duplicating this literal "numTelephone" 3 times.(î´·¯ùÿÿÿÿ8ì£Çªó1J$8f778539-2920-408d-9547-9434bb3d2f79
+ˆ
+java:S1192W"FDefine a constant instead of duplicating this literal "email" 3 times.(ïãa8ì£Çªó1J$6a2e545e-83fa-49e3-916b-33afb73dff40
+’
+java:S1192R"JDefine a constant instead of duplicating this literal "totalCost" 3 times.(ò„ÙÏùÿÿÿÿ8ì£Çªó1J$fd4c48b6-790e-45e2-88f6-1f6b2d596937
+—
+java:S2095{"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(±¦¬¡ùÿÿÿÿ8©¤Çªó1J$3981fad4-1422-4d98-bdff-1f6345427843
+
+java:S2095K"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8©¤Çªó1J$485dfcd4-51e7-4c34-a797-302243c19495
+r	java:S106"+Replace this use of System.out by a logger.(ËÔõúÿÿÿÿ8°¤Çªó1J$80f103ff-624d-4e2b-a00e-88e6e302e9b3
+m	java:S106""+Replace this use of System.out by a logger.(ÿˆ¨Í8±¤Çªó1J$098c640e-6adc-422f-8ff0-3d11a92e9bb2
+m	java:S1067"+Replace this use of System.out by a logger.(¤Ô‚Ö8²¤Çªó1J$1072adf4-07ba-4b17-81c0-378e85e8c432
+r	java:S1069"+Replace this use of System.out by a logger.(­İÈ±ıÿÿÿÿ8²¤Çªó1J$ab48b843-f519-4bba-bd82-41e8e77f64c1
+l	java:S106E"+Replace this use of System.out by a logger.(ñŸá;8³¤Çªó1J$69982bfc-7f80-42b1-b7a8-16822004f45e
+H	java:S106¥"+Replace this use of System.out by a logger.(ÿˆ¨Í8º½Èªó1
+x
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8º¤Çªó1J$2359f89c-d95f-4a87-8cfd-82095ed1dd00

@@ -1,0 +1,10 @@
+
+e
+java:S11924"HDefine a constant instead of duplicating this literal "WARNING" 4 times.(‹¸ı8´–”Ïó1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8·–”Ïó1
+q	java:S116"URename this field "BtnAjouter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÜË8Ê–”Ïó1
+v	java:S116!"URename this field "BtnAnnuler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬³¯»ÿÿÿÿÿ8Ê–”Ïó1
+o	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÜÙƒşÿÿÿÿ8Ï–”Ïó1
+Y
+java:S63539"<Use concise character class syntax '\\d' instead of '[0-9]'.(íô·8Ô–”Ïó1
+j	java:S100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿æ§Ö8Ş–”Ïó1

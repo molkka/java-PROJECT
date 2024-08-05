@@ -1,0 +1,38 @@
+
+	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8üÅæ«ó1J$630f9a4d-1b83-4d40-b708-d45138c6c0c3
+	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ıÅæ«ó1J$9301a16e-70bc-4447-bf0b-39c276b45c52
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8ÿÅæ«ó1J$36fbe40b-ac8c-47ed-87d4-914cd5fe966b
+˜
+java:S3655A"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ã¹èøúÿÿÿÿ8”Ææ«ó1J$8b535a8b-4589-4e0d-92f5-4f637928e359
+š	java:S116$"XRename this field "ListCommandes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ã“â8•Ææ«ó1J$aec2a112-b2b4-471b-8b25-2426775e5fd0
+œ	java:S116&"URename this field "BtnAnnuler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬³¯»ÿÿÿÿÿ8•Ææ«ó1J$ba606188-4f4c-49dd-86e7-db99369cf4d8
+œ	java:S116("URename this field "BtnFacture" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÓË£úÿÿÿÿ8•Ææ«ó1J$f44dc809-08d1-48eb-8a03-4a008c35d7b7
+É
+java:S11862"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²«ÇÏùÿÿÿÿ8•Ææ«ó1J$212f1993-2b9f-4c14-9ea6-32ee2473c04a
+•	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²«ÇÏùÿÿÿÿ8˜Ææ«ó1J$63f0c945-90e8-4ef7-b07a-325dd2ca8ebf
+	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿æ§Ö8˜Ææ«ó1J$8a1f4c21-1d93-4e35-9799-b3eef04955dc
+q
+java:S1128".Remove this unused import 'com.itextpdf.text'.(¥®¸8‹ıë«ó1J$70c519d0-60e2-4629-923a-12bf3be1fc97
+u
+java:S1128"3Remove this unused import 'com.itextpdf.text.Font'.(ĞÆ™8‹ıë«ó1J$0b739815-ad72-4f8b-8995-f1457c5f28dc
+ƒ
+java:S1128";Remove this unused import 'com.itextpdf.text.pdf.PdfPCell'.(‰‡êËúÿÿÿÿ8‹ıë«ó1J$acc539de-a8c7-41de-adee-ed7f81e5ab99
+„
+java:S1128"<Remove this unused import 'com.itextpdf.text.pdf.PdfPTable'.(¤ú‹Éùÿÿÿÿ8‹ıë«ó1J$2118c049-ab9d-4f73-813b-1b598aa27901
+„
+java:S1128"<Remove this unused import 'com.itextpdf.text.pdf.PdfWriter'.(µˆ£ÿÿÿÿÿ8‹ıë«ó1J$15c433b1-0489-4f64-9824-0631ea25b72b
+u
+java:S1128
+"-Remove this unused import 'javafx.fxml.FXML'.(ÃÚ¢„şÿÿÿÿ8‹ıë«ó1J$05eea010-f0a1-4a53-ad95-a9cb68d708a7
+x
+java:S1128"5Remove this unused import 'javafx.stage.FileChooser'.(–¹ë8‹ıë«ó1J$6c3ee448-68dc-46ca-a4bb-1eccd8b2a351
+o
+java:S1128",Remove this unused import 'models.Products'.(ßË†Ş8‹ıë«ó1J$371fc8e4-f1bc-4177-819d-df8e0cc9d1bf
+h
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8‹ıë«ó1J$723dbed3-734c-40da-8ec1-5a35de583f0b
+l
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8‹ıë«ó1J$c750f9f6-6305-4a2d-a22b-ea5e860b201f
+w
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8Œıë«ó1J$1b245372-1f96-4364-a42b-918223d0f5a7
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Œıë«ó1J$462f9b3e-78d1-4772-8ab7-a67cf746dff5

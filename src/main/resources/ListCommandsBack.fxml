@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="800.0" prefWidth="1000.0" style="-fx-background-color: EBF5FB;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.ListCommandsBackController">
+   <children>
+      <ListView fx:id="ListCommands" layoutX="38.0" layoutY="194.0" onMouseClicked="#OnLisctClicked" prefHeight="325.0" prefWidth="877.0" />
+      <Label layoutX="59.0" layoutY="28.0" text="Liste des commandes" textFill="#3498db">
+         <font>
+            <Font name="System Bold" size="51.0" />
+         </font>
+      </Label>
+      <Button fx:id="BtnSupprimer" layoutX="687.0" layoutY="540.0" mnemonicParsing="false" onAction="#OnSupprimerClicked" prefHeight="71.0" prefWidth="205.0" style="-fx-background-color: E74C3C;" text="Supprimer">
+         <font>
+            <Font size="25.0" />
+         </font></Button>
+      <Button fx:id="BtnModifier" layoutX="384.0" layoutY="540.0" mnemonicParsing="false" onAction="#OnModifierClicked" prefHeight="71.0" prefWidth="205.0" style="-fx-background-color: F7DC6F;" text="Modifier">
+         <font>
+            <Font size="25.0" />
+         </font></Button>
+      <TextField fx:id="tfRecherche" layoutX="41.0" layoutY="108.0" prefHeight="69.0" prefWidth="433.0" />
+      <ComboBox fx:id="ComboColumn" layoutX="514.0" layoutY="112.0" prefHeight="61.0" prefWidth="173.0" style="-fx-background-color: #EBDEF0;" />
+      <ComboBox fx:id="ComboOrder" layoutX="719.0" layoutY="112.0" prefHeight="61.0" prefWidth="173.0" style="-fx-background-color: #D0ECE7;" />
+      <Button fx:id="BtnVoirFacture" layoutX="53.0" layoutY="540.0" mnemonicParsing="false" onAction="#GoFacture" prefHeight="71.0" prefWidth="205.0" style="-fx-background-color: #58D68D;" text="Voir Facture">
+         <font>
+            <Font size="25.0" />
+         </font></Button>
+   </children>
+</AnchorPane>

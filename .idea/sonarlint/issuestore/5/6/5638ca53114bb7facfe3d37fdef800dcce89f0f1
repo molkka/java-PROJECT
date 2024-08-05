@@ -1,0 +1,31 @@
+
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Œ¦®Ğó1J$a752312d-f556-4617-932d-cbb708a637c0
+	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Œ¦®Ğó1J$61ebda57-4f24-4b6e-b8dd-e2aa59888d27
+	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Œ¦®Ğó1J$459c0dd7-df54-4056-b8dd-921a604851aa
+	java:S112i"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Œ¦®Ğó1J$b95c2a71-d898-468d-a380-bcb04b48b447
+	java:S112w"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Œ¦®Ğó1J$99606b49-0db0-4f7d-87e9-96071fb18971
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¦®Ğó1J$18335f91-1ad4-4308-8b8d-b200be7d27dd
+	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¦®Ğó1J$4d841728-934e-4198-86b8-2722db78eec3
+	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¦®Ğó1J$f02fc00c-0a8e-4f74-820a-02228f39a31a
+w
+java:S3740""/Provide the parametrized type for this generic.(£¸Ÿ¡øÿÿÿÿ8¦®Ğó1J$231f3309-c091-4e07-bad9-e3e664059dd9
+w
+java:S3740$"/Provide the parametrized type for this generic.(Øã“¨ûÿÿÿÿ8¦®Ğó1J$c59ec908-1506-4886-be3d-2fc877601480
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8˜¦®Ğó1J$528b1fc4-2dbe-4af5-9b40-b84a64834422
+
+java:S3655°"TCall "buttonType.isPresent()" or "!buttonType.isEmpty()" before accessing the value.(—ÄØ•şÿÿÿÿ8¼¦®Ğó1J$e47a93fa-65ca-4f54-83e6-e7fbdea2eb25
+	java:S116"WRename this field "BtnSupprimer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÈ€Šÿÿÿÿÿ8½¦®Ğó1J$7208a920-cd4a-4c49-9bea-c7cdc153e896
+™	java:S116"WRename this field "ListCommands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éüĞ›8½¦®Ğó1J$5dd6d293-4456-4111-beaf-af074b52eded
+˜	java:S116"VRename this field "BtnModifier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¡ƒ€8½¦®Ğó1J$24f988d8-fb3d-4f25-a880-1e36be9e0c15
+	java:S116""VRename this field "ComboColumn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¸Ÿ¡øÿÿÿÿ8¾¦®Ğó1J$9c230c32-5a9f-4d66-89ec-c02411cda2b5
+œ	java:S116$"URename this field "ComboOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øã“¨ûÿÿÿÿ8¾¦®Ğó1J$d2b9e242-8c93-4e19-8ae0-f2ef3fbc369b
+š
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.(•‘İŸüÿÿÿÿ8Æ¦®Ğó1J$69eebcd3-a911-4bec-bad0-a7dcb71422fc
+²
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¶Û¶¼8Ù¦®Ğó1J$9f3e38c7-4aea-4e93-b9ae-3e31b6e20d80
+‘	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯åÅè8â¦®Ğó1J$58c37676-4b23-4c12-ad85-50d9737857ae
+–	java:S100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÓÀ½úÿÿÿÿ8å¦®Ğó1J$5b1f008a-6cb4-4d66-8992-d5ae86861349
+n	java:S106Â"+Replace this use of System.out by a logger.(Áß‡Ü8ê¦®Ğó1J$2e5cdbe0-6973-4724-984d-df9393cb55b5
+	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Å€&8ë¦®Ğó1J$e1a0ccb3-b906-4189-92df-431e119e3466
+k
+java:S1068"(Remove this unused "user" private field.(ÑÄÁõ8ù¦®Ğó1J$2382156e-32bf-4049-8e66-d9935f6db164

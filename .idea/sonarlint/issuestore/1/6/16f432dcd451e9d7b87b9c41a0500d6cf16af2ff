@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8Ì—”Ûğ1
+q	java:S116"URename this field "BtnAjouter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÜË8î—”Ûğ1
+q	java:S116"URename this field "BtnInserer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àç•‚8î—”Ûğ1
+v	java:S116"URename this field "BtnAnnuler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬³¯»ÿÿÿÿÿ8î—”Ûğ1
+p	java:S116$"TRename this field "ImagePath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®©Ì¬8î—”Ûğ1
+p	java:S116&"TRename this field "BtnRetour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õßªô8î—”Ûğ1
+o	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÜÙƒşÿÿÿÿ8õ—”Ûğ1
+^
+java:S6353/"<Use concise character class syntax '\\d' instead of '[0-9]'.(¼ÿ¦…şÿÿÿÿ8û—”Ûğ1
+o	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßï÷Îøÿÿÿÿ8ş—”Ûğ1
+G	java:S106U"+Replace this use of System.out by a logger.(æ†á§8ˆ˜”Ûğ1
+j	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿æ§Ö8‰˜”Ûğ1
+i	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜‡ğ18Œ˜”Ûğ1

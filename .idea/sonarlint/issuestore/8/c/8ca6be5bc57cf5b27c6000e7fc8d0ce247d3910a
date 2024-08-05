@@ -1,0 +1,28 @@
+
+l
+java:S1192L"JDefine a constant instead of duplicating this literal "factureid" 3 times.(¨êµ„ÿÿÿÿÿ8Ë”Ü«ó1
+h
+java:S1192M"KDefine a constant instead of duplicating this literal "commandeid" 3 times.(¤Ë„µ8Ë”Ü«ó1
+j
+java:S1192S"HDefine a constant instead of duplicating this literal "adresse" 3 times.(¢üÇ­ıÿÿÿÿ8Ë”Ü«ó1
+i
+java:S1192Q"GDefine a constant instead of duplicating this literal "prenom" 3 times.(åèš½ùÿÿÿÿ8Ì”Ü«ó1
+o
+java:S1192T"MDefine a constant instead of duplicating this literal "numTelephone" 3 times.(Åç†®şÿÿÿÿ8Ì”Ü«ó1
+c
+java:S1192R"FDefine a constant instead of duplicating this literal "email" 3 times.(ø¢‘×8Ì”Ü«ó1
+g
+java:S1192O"JDefine a constant instead of duplicating this literal "totalCost" 3 times.(Ä³Åì8Ì”Ü«ó1
+…
+java:S2259U"BA "NullPointerException" could be thrown; "list" is nullable here.(ƒ®ì¸8½¸Ú«ó1J$ef068ca1-3a59-4497-8bc1-934ddf744aaf
+r	java:S106"+Replace this use of System.out by a logger.(¤€Æ¯ùÿÿÿÿ8¦Ş¨¦ó1J$ca29fc47-6ae4-4968-a58b-0a114680d6e8
+r	java:S106"+Replace this use of System.out by a logger.(ÿ–Øøÿÿÿÿ8¦Ş¨¦ó1J$9954ed06-5079-4f90-b359-c809429c7df2
+m	java:S1061"+Replace this use of System.out by a logger.(µÜÒº8¨Ş¨¦ó1J$8068bbcc-556d-47f7-8acf-7b490f63dbc7
+m	java:S1063"+Replace this use of System.out by a logger.(¯½éõ8©Ş¨¦ó1J$23c2d20d-85f9-49fc-94d1-9fddbc51d9e8
+m	java:S106>"+Replace this use of System.out by a logger.(Íßù›8‰Éª¦ó1J$c34a190a-fb69-4702-a724-82669afa72b9
+r	java:S106@"+Replace this use of System.out by a logger.(†õœÔûÿÿÿÿ8ŠÉª¦ó1J$1dd006c4-51fd-47b2-bee8-5ddf42111abe
+r	java:S106X"+Replace this use of System.out by a logger.(æºÿ‚şÿÿÿÿ8ãü¬¦ó1J$12f4b2c2-ae41-4d85-a0d9-869f4bdefb91
+m	java:S106s"+Replace this use of System.out by a logger.(Ïİë­8áË®¦ó1J$e3301929-ceb5-4eca-9eda-6bb14e3d3090
+H	java:S106"+Replace this use of System.out by a logger.(Ïİë­8õ”Ü«ó1
+x
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8Ñ¸Ú«ó1J$d58c406b-6980-4d50-8187-de2953b6c56e

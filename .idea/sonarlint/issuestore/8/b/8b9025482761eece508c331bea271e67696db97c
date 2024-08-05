@@ -1,0 +1,9 @@
+
+
+java:S2095;"GUse try-with-resources or close this "Statement" in a "finally" clause.(ι°Αµώÿÿÿÿ8ΕΞ‹ίο1J$d144c6c7-faec-4a55-9783-c83b9e87bb04
+r	java:S106"+Replace this use of System.out by a logger.(Φ†„ύÿÿÿÿ8΅‰…ίο1J$d57a4eb6-ff5f-4ac9-b092-1997aab56830
+r	java:S106"+Replace this use of System.out by a logger.(Ò’ίζώÿÿÿÿ8΅‰…ίο1J$01895ea6-aa20-4f01-8799-ab1f831ec238
+m	java:S106%"+Replace this use of System.out by a logger.(–Π°ϊ8£‰…ίο1J$375cf995-1959-4273-b40c-4d44eafef72f
+r	java:S106'"+Replace this use of System.out by a logger.(τΔΰΤϊÿÿÿÿ8£‰…ίο1J$94fe6ad8-3014-443e-b887-e461cce05c2e
+m	java:S1062"+Replace this use of System.out by a logger.(ΨΌ™®8¦‰…ίο1J$2707c599-f960-4101-8e7f-69c97b6dc9c0
+m	java:S1064"+Replace this use of System.out by a logger.(µΠΉ8ϊιπίο1J$69e11126-2dd7-4c85-9967-c607faeb58fc

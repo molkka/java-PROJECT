@@ -1,0 +1,14 @@
+
+ú	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(∫õ∞Œ8ƒñû¨Û1J$e8543219-b5e6-4b3f-861c-4a7fb4aae296
+ò	java:S116"VRename this field "BtnModifire" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å†ÏÜ8Ÿñû¨Û1J$446be6b2-1470-446b-8a16-07f926adb16e
+ñ	java:S116!"TRename this field "BtnRetour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıﬂ™Ù8Ÿñû¨Û1J$ef49b9cf-1993-43be-b149-53e63c403525
+ê	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(◊ÅÂÑ8›ñû¨Û1J$4638b7b8-9c21-4c6a-ba7a-d9012e7f5357
+Ñ
+java:S6353;"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ò’é∑˛ˇˇˇˇ8ﬂñû¨Û1J$cf477ebb-28aa-43b8-8873-05fc561d6d10
+Ñ
+java:S6353J"<Use concise character class syntax '\\d' instead of '[0-9]'.(òˆ€ﬂ˝ˇˇˇˇ8‡ñû¨Û1J$f95d8f60-c9d3-42d0-968a-b2b0f13a2f7f
+Ñ
+java:S6353J"<Use concise character class syntax '\\d' instead of '[0-9]'.(òˆ€ﬂ˝ˇˇˇˇ8‡ñû¨Û1J$92a9444a-427d-42ca-96ae-b5926304bc56
+Ñ
+java:S6353J"<Use concise character class syntax '\\d' instead of '[0-9]'.(òˆ€ﬂ˝ˇˇˇˇ8‡ñû¨Û1J$9b97c7fa-40ab-49b7-94d2-b1ee831e9995
+ê	java:S100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÔàÌ8‚ñû¨Û1J$3dc7684a-0909-4744-b14c-90f1c3e1c2ec

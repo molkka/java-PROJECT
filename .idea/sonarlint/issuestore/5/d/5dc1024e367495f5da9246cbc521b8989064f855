@@ -1,0 +1,17 @@
+
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ¶øÿÿÿÿ8™Ğä¸ó1J$d059b431-a931-4dd5-96fb-1df30f071996
+q
+java:S1128".Remove this unused import 'com.stripe.Stripe'.(‘íü8Ğä¸ó1J$b553edcd-d30b-4331-83ac-af567e112862
+‰
+java:S1128"ARemove this unused import 'com.stripe.exception.StripeException'.(şÏßòúÿÿÿÿ8Ğä¸ó1J$8b2d8e0a-1b3e-42d9-a6c3-b367406ecf58
+~
+java:S1128";Remove this unused import 'com.stripe.model.PaymentIntent'.(«ÁÛ8Ğä¸ó1J$1c878cad-084f-4414-b4b3-20fa3b6dc234
+ƒ
+java:S1128";Remove this unused import 'com.stripe.model.PaymentMethod'.(‚ÆÆÄıÿÿÿÿ8ˆó¹¸ó1J$f9f5f8d1-80bb-46ac-b7e6-f99dc516727b
+Š
+java:S1128"GRemove this unused import 'com.stripe.param.PaymentIntentCreateParams'.(ÄËâè8Ğä¸ó1J$ab1c35a0-6b26-4015-91e2-b381cc45d0e3
+Š
+java:S1128"GRemove this unused import 'com.stripe.param.PaymentMethodCreateParams'.(ÓÓæ²8ˆó¹¸ó1J$04675581-f003-4aec-ae26-506b95fe8b2f
+m
+java:S1068"%Remove this unused "a" private field.(ó¬¥ÿÿÿÿÿ8Ğä¸ó1J$52cae202-f272-4a77-a4cd-1bd8370d587f

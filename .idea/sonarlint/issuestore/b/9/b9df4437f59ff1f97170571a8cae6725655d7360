@@ -1,0 +1,16 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Α―¦ώ8ύΛ³γο1
+E
+java:S1128"(Remove this unused import 'models.Cart'.(σΛοπ8€Μ³γο1
+N
+java:S1128",Remove this unused import 'models.Commande'.(’λ²Όϋÿÿÿÿ8€Μ³γο1
+o
+java:S1128",Remove this unused import 'models.Products'.(ίΛ†ή8·ωΔΰο1J$497152fb-8b48-433e-8b11-160189156364
+S
+java:S1128"6Remove this unused import 'services.Commandeservices'.(Ρ¤ς‰8€Μ³γο1
+W
+java:S1128"5Remove this unused import 'services.Productservices'.(Ρ– αϊÿÿÿÿ8€Μ³γο1
+R
+java:S1128
+"0Remove this unused import 'java.time.LocalDate'.(›‘¬θύÿÿÿÿ8€Μ³γο1

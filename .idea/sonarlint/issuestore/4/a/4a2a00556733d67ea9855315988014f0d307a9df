@@ -1,0 +1,35 @@
+
+	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ÉÛ›üşÿÿÿÿ8„ø•ªó1J$94427ace-333e-4233-b47d-e67771d4fb67
+˜	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›‘–ıûÿÿÿÿ8©€Û©ó1J$615007d2-0c41-4d41-991c-6600568c3690
+˜	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü›²ûÿÿÿÿ8ª€Û©ó1J$1caa67de-cd09-4350-9703-6809840af998
+“	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷âÃ8ª€Û©ó1J$9cfe815a-1937-4e77-bcd5-932fa16592ee
+“	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûæÿ©8ª€Û©ó1J$f4f1c75b-a16a-409b-8012-41af733a8417
+™	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›‘–ıûÿÿÿÿ8ª€Û©ó1J$98b6c58e-1a36-4fce-9d59-cefe137e2994
+”	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£à¿8ª€Û©ó1J$b46a4368-d898-4114-aeff-8b979c93feee
+”	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¥¹Å8ª€Û©ó1J$7c255a70-4aac-41e5-b113-d84960251bbb
+”	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¯„¢8ª€Û©ó1J$ce17fbb9-4948-43fe-b97b-2faf6f584144
+™	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ò Ûüÿÿÿÿ8ª€Û©ó1J$94945b19-7f45-4220-8832-a203d037ba90
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8¬€Û©ó1J$e6e5bbff-ff67-475c-9627-54c9492b3ac9
+—	java:S116&"URename this field "ScrollPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õŠü°8ï€Û©ó1J$fe393f61-88d4-4a64-8153-fee036e81044
+™	java:S1161"WRename this field "BtnCommander" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ÿ¯æ8ğ€Û©ó1J$d5b757bd-e4bd-41dc-9bcf-df57818a9682
+m	java:S106@"+Replace this use of System.out by a logger.(¢ûÄ§8íø•ªó1J$b6b8002b-86ee-4b34-aa8f-1513a882dc3b
+•	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŠÀ¡øÿÿÿÿ8û€Û©ó1J$011ac8e1-f7f4-4af8-8ebb-c97470cbb3a0
+„
+java:S6353m"<Use concise character class syntax '\\d' instead of '[0-9]'.(®ÿ–şÿÿÿÿ8‚Û©ó1J$0525a970-7b7f-4b9f-ba14-a3eff3a2790a
+‘	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÊ¾8Û©ó1J$bd7fc90b-bf6f-44e9-ab49-137b6776f4ce
+x
+java:S1128"5Remove this unused import 'javafx.stage.FileChooser'.(–¹ë8šù•ªó1J$f01d3c21-e2ae-48b0-9610-27cbef75a415
+u
+java:S1128"-Remove this unused import 'org.w3c.dom.Text'.(¶Äè‹şÿÿÿÿ8šù•ªó1J$f2eb4a0c-404f-4673-a186-a6453a432d85
+l
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8šù•ªó1J$d54505b7-2777-4202-aefa-243d41fab2ff
+s
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8šù•ªó1J$efe7dcdb-5266-4bca-a721-0204adf04ff3
+s
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8šù•ªó1J$ba0b014d-42ab-4f53-a1af-80f19bb824f8
+}
+java:S1128"5Remove this unused import 'java.security.PrivateKey'.(‘äÄîúÿÿÿÿ8šù•ªó1J$7cbec505-60f6-43ef-96b6-63ba08632e09
+|
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8šù•ªó1J$d413fc90-0ffb-4dee-966b-321005b4707e
+w
+java:S1068("4Remove this unused "commandeservices" private field.(ªé½Ÿ8˜Û©ó1J$c540408c-ec9c-48b0-88e8-821d57f862c9
