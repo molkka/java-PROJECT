@@ -1,0 +1,26 @@
+pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building...'
+                // Ajouter ici les commandes de construction, par exemple :
+                // sh 'mvn clean install'
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing...'
+                // Ajouter ici les commandes de test, par exemple :
+                // sh 'mvn test'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deploying...'
+                // Ajouter ici les commandes de déploiement, par exemple :
+                // sh 'scp target/myapp.war user@server:/path/to/deploy'
+            }
+        }
+    }
+}
