@@ -103,7 +103,7 @@ public class AddProductController {
 
     @javafx.fxml.FXML
     public void OnREtourClicked(ActionEvent actionEvent) throws IOException {
-        FXMLLoader loader = new FXMLLoader(getClass().getResource("/ListProductsBack.fxml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("/ListOfProductsBack.fxml"));
         this.BtnAjouter.getScene().setRoot(loader.load());
     }
 }
