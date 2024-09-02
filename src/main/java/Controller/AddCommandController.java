@@ -75,7 +75,7 @@ public class AddCommandController {
         else if (tfNumero.getText().length() != 8) {
             alert.setAlertType(Alert.AlertType.WARNING);
             alert.setTitle("WARNING");
-            alert.setContentText("Le numéro doit contenir 8 chiffres");
+            alert.setContentText("Le numéro doit contenir 9 chiffres");
             alert.show();
         }
 
