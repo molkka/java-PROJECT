@@ -1,34 +1,18 @@
 pipeline {
     agent any
-
     stages {
-        stage('Build & SonarQube Scanner') {
-            agent { label 'windows' }  // Ensures this runs on a Windows agent
+        stage('Build') {
             steps {
-                // Checkout from Git
-                git 'https://github.com/molkka/java-PROJECT.git'
-
-                // Set up environment for SonarQube
-                withSonarQubeEnv('SonarQube') {
-                    // Execute the build and SonarQube analysis using batch commands (Windows)
-                    bat '''
-                    echo Starting Build...
-                    mvn clean install
-
-                    echo Running SonarQube Analysis...
-                    mvn sonar:sonar
-                    '''
-                }
+                bat 'mvn clean package'
             }
         }
-    }
-
-    post {
-        success {
-            echo 'Pipeline completed successfully.'
-        }
-        failure {
-            echo 'Pipeline failed.'
+        stage('SonarQube Analysis') {
+            environment {
+                scannerHome = tool 'SonarQube Scanner'
+            }
+            steps {
+                bat "${scannerHome}/bin/sonar-scanner.bat -Dsonar.projectKey=your_project_key"
+            }
         }
     }
 }
