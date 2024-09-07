@@ -1,26 +1,14 @@
 pipeline {
-    agent any
-    stages {
-        stage('Build') {
+        agent none
+        stages {
+         
+          stage("build & SonarQube Scanner") {
+            agent any
             steps {
-                echo 'Building...'
-                // Ajouter ici les commandes de construction, par exemple :
-                // sh 'mvn clean install'
+              withSonarQubeEnv('SonarQube Scanner') {
+                sh 'mvn clean package sonar:sonar'
+              }
             }
+          }
         }
-        stage('Test') {
-            steps {
-                echo 'Testing...'
-                // Ajouter ici les commandes de test, par exemple :
-                // sh 'mvn test'
-            }
-        }
-        stage('Deploy') {
-            steps {
-                echo 'Deploying...'
-                // Ajouter ici les commandes de déploiement, par exemple :
-                // sh 'scp target/myapp.war user@server:/path/to/deploy'
-            }
-        }
-    }
-}
+      }
