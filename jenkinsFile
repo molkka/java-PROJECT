@@ -1,18 +1,14 @@
 pipeline {
-    agent any
-    stages {
-        stage('Build') {
+        agent none
+        stages {
+         
+          stage("build & SonarQube Scanner") {
+            agent any
             steps {
-                bat 'mvn clean package'
+              withSonarQubeEnv('SonarQube') {
+                bat 'mvn clean package sonar:sonar'
+              }
             }
+          }
         }
-        stage('SonarQube Analysis') {
-            environment {
-                scannerHome = tool 'SonarQube Scanner'
-            }
-            steps {
-                bat "${scannerHome}/bin/sonar-scanner.bat -Dsonar.projectKey=your_project_key"
-            }
-        }
-    }
-}
+      }
